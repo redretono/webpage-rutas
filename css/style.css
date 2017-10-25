@@ -10363,16 +10363,16 @@ section[data-parallax-image] {
   background-color: #101010 !important; }
 
 .background-pattern {
-  background-image: url(../../images/overlay-pattern/gplay.png); }
+  background-image: url(/images/overlay-pattern/gplay.png); }
 
 .background-pattern-1 {
-  background-image: url(../../images/overlay-pattern/3px-tile.png); }
+  background-image: url(/images/overlay-pattern/3px-tile.png); }
 
 .background-pattern-2 {
-  background-image: url(../../images/overlay-pattern/asfalt-dark.png); }
+  background-image: url(/images/overlay-pattern/asfalt-dark.png); }
 
 .background-pattern-3 {
-  background-image: url(../../images/overlay-pattern/axiom-pattern.png); }
+  background-image: url(/images/overlay-pattern/axiom-pattern.png); }
 
 .shadow {
   box-shadow: 0 4px 16px #e2e2e2; }
